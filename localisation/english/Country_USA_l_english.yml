@@ -1,0 +1,19 @@
+﻿l_english:
+### Country Names and Cosmetics
+ USA: "United States of America"
+ USA_DEF: "United States of America"
+ USA_ADJ: "American" 
+ USA_Eastern_Outlook: "United States of America"
+ USA_Eastern_Outlook_DEF: "United States of America"
+ USA_Western_Outlook: "United States of America"
+ USA_Western_Outlook_DEF: "United States of America"
+ USA_Non_Aligned_Outlook: "United States of America"
+ USA_Non_Aligned_Outlook_DEF: "United States of America"
+
+ USA_Eastern_Outlook_party: "CPUSA"
+ USA_Eastern_Outlook_party_long: "Communist Party of the United States of America"
+ USA_Western_Outlook_party: "GOP"
+ USA_Western_Outlook_party_long: "Republican Party"
+ USA_Non_Aligned_Outlook_party: "GOP"
+ USA_Non_Aligned_Outlook_party_long: "Republican Party"
+ 

@@ -1,0 +1,7 @@
+ZZZ	= "countries/Germany.txt"
+KOR = "countries/Asian.txt" 
+JAP = "countries/Asian.txt" 
+CHI = "countries/Asian.txt" 
+MAN = "countries/Asian.txt" 
+KSA = "countries/Western_European.txt" 
+USA = "countries/Western_European.txt" 

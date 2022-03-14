@@ -1,0 +1,32 @@
+defined_text = {
+	name = get_leader_title
+	text = { trigger = { has_country_leader_with_trait = TITLE_General_Secretary } localization_key = TITLE_General_Secretary } # General Secretary
+	# <END OF TITLES>  CHANGE THIS AND YOU SHOULD KILL YOURSELF NOW!!!!!!
+	text = { localization_key = TITLE_Default }
+}
+defined_text = {
+	name = get_subideology
+	text = { trigger = { has_country_leader_with_trait = IDEOLOGY_Juche } localization_key = IDEOLOGY_Juche } # Juche
+	# <END OF IDEOLOGIES>  CHANGE THIS AND YOU SHOULD KILL YOURSELF NOW!!!!!!
+	text = { localization_key = politism }
+}
+
+defined_text = {
+	name = get_subideology_adj
+	text = { trigger = { has_country_leader_with_trait = IDEOLOGY_Juche } localization_key = IDEOLOGY_Juche_ADJ } # Juche
+	# <END OF IDEOLOGIES ADJ>  CHANGE THIS AND YOU SHOULD KILL YOURSELF NOW!!!!!!
+	text = { localization_key = politism }
+}
+
+defined_text = {
+	name = get_subideology_icon
+	text = { localization_key = GFX_ideology_unknown }
+}
+
+defined_text = {
+	name = get_ideology
+	text = { trigger = { has_government = Eastern_Outlook } localization_key = Eastern_Outlook_noun }
+	text = { trigger = { has_government = Western_Outlook } localization_key = Western_Outlook_noun }
+	text = { trigger = { has_government = Non_Aligned_Outlook } localization_key = Non_Aligned_Outlook_noun }
+	text = { localization_key = "" }
+}

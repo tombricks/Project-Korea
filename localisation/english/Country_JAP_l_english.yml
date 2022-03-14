@@ -1,0 +1,19 @@
+﻿l_english:
+### Country Names and Cosmetics
+ JAP: "Japan"
+ JAP_DEF: "Japan"
+ JAP_ADJ: "Japanese" 
+ JAP_Eastern_Outlook: "Japan"
+ JAP_Eastern_Outlook_DEF: "Japan"
+ JAP_Western_Outlook: "Japan"
+ JAP_Western_Outlook_DEF: "Japan"
+ JAP_Non_Aligned_Outlook: "Japan"
+ JAP_Non_Aligned_Outlook_DEF: "Japan"
+
+ JAP_Eastern_Outlook_party: "$Eastern_Outlook_party$"
+ JAP_Eastern_Outlook_party_long: "$Eastern_Outlook_party_long$"
+ JAP_Western_Outlook_party: "$Western_Outlook_party$"
+ JAP_Western_Outlook_party_long: "$Western_Outlook_party_long$"
+ JAP_Non_Aligned_Outlook_party: "$Non_Aligned_Outlook_party$"
+ JAP_Non_Aligned_Outlook_party_long: "$Non_Aligned_Outlook_party_long$"
+ 

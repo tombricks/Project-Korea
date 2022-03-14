@@ -1,0 +1,19 @@
+﻿l_english:
+### Country Names and Cosmetics
+ KSA: "Western United States"
+ KSA_DEF: "Western United States"
+ KSA_ADJ: "West American" 
+ KSA_Eastern_Outlook: "Reorganized Federal Government of the United States"
+ KSA_Eastern_Outlook_DEF: "the Reorganized Federal Government of the United States"
+ KSA_Western_Outlook: "Western United States"
+ KSA_Western_Outlook_DEF: "Western United States"
+ KSA_Non_Aligned_Outlook: "Reorganized Federal Government of the United States"
+ KSA_Non_Aligned_Outlook_DEF: "the Reorganized Federal Government of the United States"
+
+ KSA_Eastern_Outlook_party: "Democratic Front"
+ KSA_Eastern_Outlook_party_long: "Democratic Front of Workers Parties in the United States"
+ KSA_Western_Outlook_party: "Liberty"
+ KSA_Western_Outlook_party_long: "American Alliance for Liberty"
+ KSA_Non_Aligned_Outlook_party: "$Non_Aligned_Outlook_party$"
+ KSA_Non_Aligned_Outlook_party_long: "$Non_Aligned_Outlook_party_long$"
+ 

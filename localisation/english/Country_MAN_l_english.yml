@@ -1,0 +1,21 @@
+﻿l_english:
+### Country Names and Cosmetics
+ MAN: "Manchuria"
+ MAN_DEF: "Manchuria"
+ MAN_ADJ: "Manchurian" 
+ MAN_Eastern_Outlook: "Manchuria"
+ MAN_Eastern_Outlook_DEF: "Manchuria"
+ MAN_Western_Outlook: "Manchuria"
+ MAN_Western_Outlook_DEF: "Manchuria"
+ MAN_Non_Aligned_Outlook: "Manchuria"
+ MAN_Non_Aligned_Outlook_DEF: "Manchuria"
+
+ MAN_Eastern_Outlook_party: "$Eastern_Outlook_party$"
+ MAN_Eastern_Outlook_party_long: "$Eastern_Outlook_party_long$"
+ MAN_Western_Outlook_party: "$Western_Outlook_party$"
+ MAN_Western_Outlook_party_long: "$Western_Outlook_party_long$"
+ MAN_Non_Aligned_Outlook_party: "$Non_Aligned_Outlook_party$"
+ MAN_Non_Aligned_Outlook_party_long: "$Non_Aligned_Outlook_party_long$"
+ 
+ MAN_District: "KPA District in Northeastern China"
+ MAN_District_DEF: "the KPA District in Northeastern China"

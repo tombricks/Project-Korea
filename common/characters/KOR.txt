@@ -1,0 +1,14 @@
+characters = {
+	KOR_Kim_Jong_un = {
+		name = KOR_Kim_Jong_un
+		portraits = {
+			civilian = {
+				large = "GFX_Portrait_Kim_Jong_un"
+			}
+		}
+		country_leader={
+			ideology = Eastern_Outlook_ideology
+			traits = { TITLE_General_Secretary IDEOLOGY_Juche }
+		}
+	}
+}

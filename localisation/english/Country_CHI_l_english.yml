@@ -1,0 +1,19 @@
+﻿l_english:
+### Country Names and Cosmetics
+ CHI: "China"
+ CHI_DEF: "China"
+ CHI_ADJ: "Chinese" 
+ CHI_Eastern_Outlook: "People's Republic of China"
+ CHI_Eastern_Outlook_DEF: "the People's Republic of China"
+ CHI_Western_Outlook: "Republic of China"
+ CHI_Western_Outlook_DEF: "the Republic of China"
+ CHI_Non_Aligned_Outlook: "People's Republic of China"
+ CHI_Non_Aligned_Outlook_DEF: "the People's Republic of China"
+
+ CHI_Eastern_Outlook_party: "CPC"
+ CHI_Eastern_Outlook_party_long: "Communist Party of China"
+ CHI_Western_Outlook_party: "KMT"
+ CHI_Western_Outlook_party_long: "Kuomintang"
+ CHI_Non_Aligned_Outlook_party: "CPC"
+ CHI_Non_Aligned_Outlook_party_long: "Communist Party of China"
+ 

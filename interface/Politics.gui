@@ -1,0 +1,98 @@
+guiTypes = {
+	containerWindowType = {
+		name = "Politics_Scripted_GUI_window"
+		position = { x = 0 y = 0}
+
+		instantTextboxType = {
+			name = "leader_title"
+			position = { x = 18 y = 54 }
+			font = "hoi_18mbs"
+			text = "[get_leader_title]"
+			maxWidth = 155
+			maxHeight = 20
+			format = center
+			vertical_alignment = center
+		}
+
+		instantTextboxType = {
+			name = "subideology"
+			position = { x = 90 y = 342 }
+			font = "hoi_26mbs"
+			text = "[get_subideology_adj]"
+			maxWidth = 162
+			maxHeight = 32
+			format = center
+		}
+
+		instantTextboxType = {
+			name = "ideology"
+			position = { x = 90 y = 376 }
+			font = "hoi_18mbs"
+			text = "[get_ideology]"
+			maxWidth = 162
+			maxHeight = 32
+			format = center
+		}
+
+		iconType ={
+			name = "ideology_icon"
+			spriteType = "GFX_ideology_unknown"
+			position = { x= 19 y = 335 }
+			Orientation = "UPPER_LEFT"
+		}
+	}
+	containerWindowType = {
+		name = "Diplomatic_Scripted_GUI_window"
+		position = { x = 0 y = 0}
+
+		instantTextboxType = {
+			name = "subideology"
+			position = { x = 247 y = 124 }
+			font = "hoi_26mbs"
+			text = "[get_subideology_adj]"
+			maxWidth = 277
+			maxHeight = 20
+			format = center
+		}		
+
+		instantTextboxType = {
+			name = "real_ideology"
+			position = { x = 247 y = 150 }
+			font = "hoi_18mbs"
+			text = "[get_ideology_adj]"
+			maxWidth = 277
+			maxHeight = 20
+			format = center
+		}		
+
+		instantTextboxType = {
+			name = "party"
+			position = { x = 247 y = 170 }
+			font = "hoi_16mbs"
+			text = "[THIS.GetRulingPartyLong]"
+			maxWidth = 277
+			maxHeight = 20
+			format = center
+			fixedsize = yes
+		}		
+			
+		iconType ={
+			name = "ideology_icon"
+			spriteType = "GFX_ideology_unknown"
+			position = { x = 158 y = 0 }
+			Orientation = "UPPER_LEFT"
+		}
+
+		#containerWindowType = {
+		#	name = "tt_overlay"
+		#	position = { x = 250 y = 120 }
+		#	size = { width = 284 height = 80 }
+		#
+		#	background = {
+		#		name = "Background"		
+		#		quadTextureSprite ="GFX_tiled_window_transparent"
+		#		tooltip = "diplomacy_politics_tt"
+		#	}
+		#}
+	}
+}

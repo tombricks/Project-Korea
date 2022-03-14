@@ -1,0 +1,24 @@
+﻿l_english:
+### Country Names and Cosmetics
+ KOR: "Korea"
+ KOR_DEF: "Korea"
+ KOR_ADJ: "Korean" 
+ KOR_Eastern_Outlook: "Democratic People's Republic of Korea"
+ KOR_Eastern_Outlook_DEF: "the Democratic People's Republic of Korea"
+ KOR_Western_Outlook: "Republic of Korea"
+ KOR_Western_Outlook_DEF: "the Republic of Korea"
+ KOR_Non_Aligned_Outlook: "Democratic People's Republic of Korea"
+ KOR_Non_Aligned_Outlook_DEF: "the Democratic People's Republic of Korea"
+
+ KOR_Eastern_Outlook_party: "WPK"
+ KOR_Eastern_Outlook_party_long: "Workers Party of Korea"
+ KOR_Western_Outlook_party: "$Western_Outlook_party$"
+ KOR_Western_Outlook_party_long: "$Western_Outlook_party_long$"
+ KOR_Non_Aligned_Outlook_party: "Juche-Leninists"
+ KOR_Non_Aligned_Outlook_party_long: "Juche-Leninists"
+ 
+### Characters
+ KOR_Kim_Jong_un: "Kim Jong-un"
+
+### Other
+ KOR_faction: "Pyongyang Bloc"

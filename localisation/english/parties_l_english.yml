@@ -1,0 +1,28 @@
+﻿l_english:
+ Eastern_Outlook: "Eastern Outlook"
+ Eastern_Outlook_noun: "Eastern Outlook"
+ Eastern_Outlook_desc: "Pro-Eastern Regime"
+
+ Western_Outlook: "Western Outlook"
+ Western_Outlook_noun: "Western Outlook"
+ Western_Outlook_desc: "Pro-Western Regime"
+
+ Non_Aligned_Outlook: "Non-Aligned Outlook"
+ Non_Aligned_Outlook_noun: "Non-Aligned Outlook"
+ Non_Aligned_Outlook_desc: "Non-Aligned Regime"
+
+ Eastern_Outlook_party: "Pro-Easterners"
+ Eastern_Outlook_party_long: "Pro-Easterners"
+ Western_Outlook_party: "Pro-Westerners"
+ Western_Outlook_party_long: "Pro-Westerners"
+ Non_Aligned_Outlook_party: "Non-Aligned"
+ Non_Aligned_Outlook_party_long: "Non-Aligned"
+ 
+### Tiles
+ TITLE_General_Secretary: "General Secretary"
+ # <END OF TITLES>  CHANGE THIS AND YOU SHOULD KILL YOURSELF NOW!!!!!!
+
+### Subideologies
+ IDEOLOGY_Juche: "Juche"
+ IDEOLOGY_Juche_ADJ: "Juche"
+ # <END OF IDEOLOGIES> CHANGE THIS AND YOU SHOULD KILL YOURSELF NOW!!!!!!

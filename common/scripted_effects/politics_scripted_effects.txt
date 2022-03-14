@@ -1,0 +1,9 @@
+remove_subideology = {
+	if = { limit = { has_country_leader_with_trait = IDEOLOGY_Juche } remove_country_leader_trait = IDEOLOGY_Juche }
+	# <END OF IDEOLOGIES EFFECT>
+}
+
+remove_leader_title = {
+	if = { limit = { has_country_leader_with_trait = TITLE_General_Secretary } remove_country_leader_trait = TITLE_General_Secretary }
+	# <END OF TITLES EFFECT>
+}

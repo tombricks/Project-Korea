@@ -1,0 +1,28 @@
+ZZZ = {
+	color = rgb { 100 100 100 }
+	color_ui = rgb { 100 100 100 }
+}
+KOR = {
+	color = rgb { 130 24 26 }
+	color_ui = rgb { 130 24 26 }
+}
+JAP = {
+	color = rgb { 255 223 0 }
+	color_ui = rgb { 255 223 0 }
+}
+CHI = {
+	color = rgb { 223 168 0 }
+	color_ui = rgb { 223 168 0 }
+}
+MAN = {
+	color = rgb { 184 122 54 }
+	color_ui = rgb { 184 122 54 }
+}
+KSA = {
+	color = rgb { 143 34 55 }
+	color_ui = rgb { 143 34 55 }
+}
+USA = {
+	color = rgb { 20 85 146 }
+	color_ui = rgb { 20 85 146 }
+}

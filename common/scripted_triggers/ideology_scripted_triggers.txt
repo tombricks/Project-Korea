@@ -1,0 +1,13 @@
+has_subideology = {
+	OR = {
+		has_country_leader_with_trait = IDEOLOGY_Juche
+		# <END OF IDEOLOGIES TRIGGER>
+	}
+}
+
+has_leader_title = {
+	OR = {
+		has_country_leader_with_trait = TITLE_General_Secretary
+		# <END OF TITLES TRIGGER>
+	}
+}

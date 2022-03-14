@@ -1,0 +1,19 @@
+bookmarks = {
+	bookmark = {
+		name = "HOMEFRONT_NAME"
+		desc = "HOMEFRONT_DESC"
+		date = 2022.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "KOR"
+		default = yes
+		
+		"KOR" ={
+			ideology = Eastern_Outlook
+			history = "KOR_HOMEFRONT_DESC"
+		}
+
+		"---" = {
+			history = "OTHER_HOMEFRONT_DESC"
+		}
+	}
+}

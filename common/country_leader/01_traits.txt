@@ -1,0 +1,7 @@
+leader_traits = {
+	TITLE_General_Secretary = { random = no } # General Secretary
+	# <END OF TITLES>  CHANGE THIS AND YOU SHOULD KILL YOURSELF NOW!!!!!!
+
+	IDEOLOGY_Juche = { random = no } # Juche
+	# <END OF IDEOLOGIES> CHANGE THIS AND YOU SHOULD KILL YOURSELF NOW!!!!!!
+}
