@@ -1,0 +1,19 @@
+﻿l_english:
+### Country Names and Cosmetics
+ LIT: "Lithuania"
+ LIT_DEF: "Lithuania"
+ LIT_ADJ: "Lithuanian" 
+ LIT_Eastern_Outlook: "Republic of Lithuania"
+ LIT_Eastern_Outlook_DEF: "the Republic of Lithuania"
+ LIT_Western_Outlook: "Republic of Lithuania"
+ LIT_Western_Outlook_DEF: "the Republic of Lithuania"
+ LIT_Non_Aligned_Outlook: "Republic of Lithuania"
+ LIT_Non_Aligned_Outlook_DEF: "the Republic of Lithuania"
+
+ LIT_Eastern_Outlook_party: "$Eastern_Outlook_party$"
+ LIT_Eastern_Outlook_party_long: "$Eastern_Outlook_party_long$"
+ LIT_Western_Outlook_party: "$Western_Outlook_party$"
+ LIT_Western_Outlook_party_long: "$Western_Outlook_party_long$"
+ LIT_Non_Aligned_Outlook_party: "$Non_Aligned_Outlook_party$"
+ LIT_Non_Aligned_Outlook_party_long: "$Non_Aligned_Outlook_party_long$"
+ 

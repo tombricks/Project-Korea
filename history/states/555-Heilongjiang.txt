@@ -1,0 +1,110 @@
+
+state={
+	id=555
+	name="STATE_555"
+	resources={
+		oil=5.000
+	}
+
+	history={
+		owner = MAN
+		add_core_of = MAN
+		add_core_of = CHI
+		victory_points = {
+			3791 5 
+		}
+		victory_points = {
+			10433 10 
+		}
+		victory_points = {
+			1645 5 
+		}
+		victory_points = {
+			4506 5 
+		}
+		victory_points = {
+			3815 5 
+		}
+		victory_points = {
+			7767 5 
+		}
+		victory_points = {
+			10463 5 
+		}
+		victory_points = {
+			1545 5 
+		}
+		victory_points = {
+			6863 5 
+		}
+		victory_points = {
+			12618 1 
+		}
+		victory_points = {
+			7832 1 
+		}
+		victory_points = {
+			7848 1 
+		}
+		victory_points = {
+			10541 1 
+		}
+		victory_points = {
+			1588 1 
+		}
+		victory_points = {
+			7526 1 
+		}
+		victory_points = {
+			7582 1 
+		}
+		victory_points = {
+			7897 1 
+		}
+		victory_points = {
+			10503 1 
+		}
+		victory_points = {
+			7591 1 
+		}
+		victory_points = {
+			10519 1 
+		}
+		victory_points = {
+			12342 1 
+		}
+		victory_points = {
+			12500 1 
+		}
+		victory_points = {
+			10521 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 4
+			arms_factory = 1
+			air_base = 6
+
+		}
+		2017.1.1 = {
+			add_manpower = 2000000
+			add_manpower = 1505749
+			buildings = {
+				industrial_complex = 5
+				arms_factory = 3
+				infrastructure = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1545 1571 1588 1645 1693 1732 1776 1847 3815 4506 4551 4592 4809 4852 5427 6811 6863 7569 7613 7697 7767 7832 7848 7873 7897 9623 9798 10215 10368 10519 10521 10541 10567 10675 10698 12342 12443 12500 12537 12548 12618 
+	}
+	manpower=34864251
+	buildings_max_level_factor=1.000
+	state_category=state_15
+	local_supplies=0.000
+}

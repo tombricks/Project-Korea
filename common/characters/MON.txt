@@ -1,0 +1,25 @@
+characters = {
+	MON_Khaltmaagiin_Battulga = {
+		name = MON_Khaltmaagiin_Battulga
+
+		allowed_civil_war = {
+		}
+
+		portraits = {
+			civilian = {
+				large = "GFX_Portrait_Generic_Leader"
+			}
+			army = {
+				small = "GFX_Minister_Generic_Leader"
+			}
+		}
+		
+		
+		country_leader = {
+			ideology = Eastern_Outlook_ideology
+			traits = { TITLE_President IDEOLOGY_Conservatism }
+			desc = MON_Khaltmaagiin_Battulga_desc
+		}
+
+	}
+}

@@ -1,0 +1,19 @@
+﻿l_english:
+### Country Names and Cosmetics
+ MEX: "Mexico"
+ MEX_DEF: "Mexico"
+ MEX_ADJ: "Mexican" 
+ MEX_Eastern_Outlook: "United Mexican States"
+ MEX_Eastern_Outlook_DEF: "the United Mexican States"
+ MEX_Western_Outlook: "United Mexican States"
+ MEX_Western_Outlook_DEF: "the United Mexican States"
+ MEX_Non_Aligned_Outlook: "United Mexican States"
+ MEX_Non_Aligned_Outlook_DEF: "the United Mexican States"
+
+ MEX_Eastern_Outlook_party: "$Eastern_Outlook_party$"
+ MEX_Eastern_Outlook_party_long: "$Eastern_Outlook_party_long$"
+ MEX_Western_Outlook_party: "$Western_Outlook_party$"
+ MEX_Western_Outlook_party_long: "$Western_Outlook_party_long$"
+ MEX_Non_Aligned_Outlook_party: "$Non_Aligned_Outlook_party$"
+ MEX_Non_Aligned_Outlook_party_long: "$Non_Aligned_Outlook_party_long$"
+ 

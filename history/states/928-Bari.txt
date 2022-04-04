@@ -1,0 +1,34 @@
+state = {
+	id = 928
+	name = "STATE_928"
+
+	history = {
+		owner = ZZZ # owner = PUN
+		victory_points = {
+			3202 5
+		}
+		buildings = {
+			3202 = {
+				naval_base = 4
+			}
+
+		}
+		# add_core_of = SOM
+		# add_core_of = PUN
+		# add_core_of = SNA
+		2017.1.1 = {
+			owner = ZZZ # owner = SHB
+			# add_core_of = SHB
+			remove_core_of = SNA
+			add_manpower = 406994
+		}
+
+	}
+
+	provinces = {
+		765 1966 3202 10891 11092 13861 13862 13863 13864
+	}
+	manpower = 703682
+	buildings_max_level_factor = 1.000
+	state_category = state_01
+}

@@ -1,0 +1,87 @@
+
+state={
+	id=554
+	name="STATE_554"
+	resources={
+		oil=5.000
+		tungsten=1.000
+		chromium=16.000
+	}
+
+	history={
+		owner = KOR
+		add_core_of = KOR
+		add_core_of = MAN
+		add_core_of = CHI
+		victory_points = {
+			1567 5 
+		}
+		victory_points = {
+			6947 5 
+		}
+		victory_points = {
+			7652 5 
+		}
+		victory_points = {
+			916 5 
+		}
+		victory_points = {
+			9803 5 
+		}
+		victory_points = {
+			944 5 
+		}
+		victory_points = {
+			1627 1 
+		}
+		victory_points = {
+			930 1 
+		}
+		victory_points = {
+			887 1 
+		}
+		victory_points = {
+			6868 1 
+		}
+		victory_points = {
+			9883 1 
+		}
+		victory_points = {
+			9841 1 
+		}
+		victory_points = {
+			3944 1 
+		}
+		victory_points = {
+			7523 1 
+		}
+		victory_points = {
+			4633 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 4
+
+		}
+		2017.1.1 = {
+			add_manpower = 2000000
+			add_manpower = 518072
+			buildings = {
+				industrial_complex = 9
+				infrastructure = 2
+				arms_factory = 3
+			}
+
+		}
+
+	}
+
+	provinces={
+		783 800 836 861 887 892 916 927 930 944 945 946 964 973 987 1150 1567 3170 3783 3791 3839 3849 3888 3895 3913 3929 3932 3944 3947 3949 3970 4503 4572 4642 4649 6804 6806 6851 6860 6868 6905 6910 6918 6947 6964 6981 7523 7526 7582 7591 7652 7663 7670 9759 9766 9781 9782 9803 9841 9848 9854 9866 9883 9885 9897 9913 9928 10376 10379 10433 10463 10503 11744 11764 11771 11781 11808 11823 11850 11862 11864 11893 11906 12355 12412 12482 
+	}
+	manpower=25041928
+	buildings_max_level_factor=1.000
+	state_category=state_13
+	local_supplies=0.000
+}

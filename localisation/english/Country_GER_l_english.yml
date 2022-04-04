@@ -1,0 +1,22 @@
+﻿l_english:
+### Country Names and Cosmetics
+ GER: "Germany"
+ GER_DEF: "Germany"
+ GER_ADJ: "German" 
+ GER_Eastern_Outlook: "Federal Republic of Germany"
+ GER_Eastern_Outlook_DEF: "the Federal Republic of Germany"
+ GER_Western_Outlook: "Federal Republic of Germany"
+ GER_Western_Outlook_DEF: "the Federal Republic of Germany"
+ GER_Non_Aligned_Outlook: "Federal Republic of Germany"
+ GER_Non_Aligned_Outlook_DEF: "the Federal Republic of Germany"
+
+ GER_Eastern_Outlook_party: "Linke"
+ GER_Eastern_Outlook_party_long: "The Left"
+ GER_Western_Outlook_party: "AfD"
+ GER_Western_Outlook_party_long: "Alternative for Germany"
+ GER_Non_Aligned_Outlook_party: "Grüne"
+ GER_Non_Aligned_Outlook_party_long: "Alliance 90/The Greens"
+ 
+
+ GER_Tino_Chrupalla: "Tino Chrupalla"
+ GER_Tino_Chrupalla_desc: ""

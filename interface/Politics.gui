@@ -47,7 +47,7 @@ guiTypes = {
 
 		instantTextboxType = {
 			name = "subideology"
-			position = { x = 247 y = 124 }
+			position = { x = 247 y = 120 }
 			font = "hoi_26mbs"
 			text = "[get_subideology_adj]"
 			maxWidth = 277
@@ -56,19 +56,9 @@ guiTypes = {
 		}		
 
 		instantTextboxType = {
-			name = "real_ideology"
-			position = { x = 247 y = 150 }
-			font = "hoi_18mbs"
-			text = "[get_ideology_adj]"
-			maxWidth = 277
-			maxHeight = 20
-			format = center
-		}		
-
-		instantTextboxType = {
 			name = "party"
 			position = { x = 247 y = 170 }
-			font = "hoi_16mbs"
+			font = "hoi_18mbs"
 			text = "[THIS.GetRulingPartyLong]"
 			maxWidth = 277
 			maxHeight = 20

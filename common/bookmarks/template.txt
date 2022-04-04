@@ -7,9 +7,37 @@ bookmarks = {
 		default_country = "KOR"
 		default = yes
 		
+		"CHI" ={
+			ideology = Eastern_Outlook
+			history = "KOR_HOMEFRONT_DESC"
+		}
+		
+		"RUS" ={
+			ideology = Eastern_Outlook
+			history = "KOR_HOMEFRONT_DESC"
+		}
+		
+		"KSA" ={
+			ideology = Eastern_Outlook
+			history = "KOR_HOMEFRONT_DESC"
+		}
+		
 		"KOR" ={
 			ideology = Eastern_Outlook
 			history = "KOR_HOMEFRONT_DESC"
+		}
+		
+		"USA" ={
+			ideology = Western_Outlook
+			history = "KOR_HOMEFRONT_DESC"
+		}
+
+		"---" = {
+			history = "OTHER_HOMEFRONT_DESC"
+		}
+
+		"---" = {
+			history = "OTHER_HOMEFRONT_DESC"
 		}
 
 		"---" = {

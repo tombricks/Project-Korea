@@ -1,0 +1,22 @@
+﻿l_english:
+### Country Names and Cosmetics
+ RUS: "Russia"
+ RUS_DEF: "Russia"
+ RUS_ADJ: "Russian" 
+ RUS_Eastern_Outlook: "Russian Federation"
+ RUS_Eastern_Outlook_DEF: "the Russian Federation"
+ RUS_Western_Outlook: "Russian Federation"
+ RUS_Western_Outlook_DEF: "the Russian Federation"
+ RUS_Non_Aligned_Outlook: "Russian Federation"
+ RUS_Non_Aligned_Outlook_DEF: "the Russian Federation"
+
+ RUS_Eastern_Outlook_party: "CPRF"
+ RUS_Eastern_Outlook_party_long: "Communist Party of the Russian Federation"
+ RUS_Western_Outlook_party: "$Western_Outlook_party$"
+ RUS_Western_Outlook_party_long: "$Western_Outlook_party_long$"
+ RUS_Non_Aligned_Outlook_party: "UR"
+ RUS_Non_Aligned_Outlook_party_long: "United Russia"
+ 
+
+ RUS_Gennady_Zyuganov: "Gennady Zyuganov"
+ RUS_Gennady_Zyuganov_desc: ""

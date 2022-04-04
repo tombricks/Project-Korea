@@ -3,19 +3,20 @@
 
 countries = [
 	{
-		"tag":				"USA",
-		"name":				"United States of America",
-		"adj":				"American",
+		"tag":				"GER",
+		"name":				"Germany",
+		"adj":				"German",
 		"ideology":			"Western_Outlook",
-		"capital":			"361",
-		"colour":			"20 85 146",
-		"culture":			"Western_European",
+		"capital":			"45",
+		"colour":			"77 93 83",
+		"culture":			"Asian",
+		"default_long":		[ "Federal Republic of Germany", "the Federal Republic of Germany" ],
 		"long_names":		{
 		},
 		"parties":			{
-			"Eastern_Outlook": [ "CPUSA", "Communist Party of the United States of America" ],
-			"Western_Outlook": [ "GOP", "Republican Party" ],
-			"Non_Aligned_Outlook": [ "GOP", "Republican Party" ]
+			"Western_Outlook": [ "AfD", "Alternative for Germany" ],
+			"Non_Aligned_Outlook": [ "Grüne", "Alliance 90/The Greens" ],
+			"Eastern_Outlook": [ "Linke", "The Left" ]
 		},
 		"characters":		{
 		}
@@ -38,12 +39,12 @@ for country in countries:
 	FileLoc   = open("localisation/english/Country_"+country["tag"]+"_l_english.yml", "w", encoding="utf8")
 
 	long_names = {
-		"Eastern_Outlook": country["name"],
-		"Eastern_Outlook_DEF": country["name"],
-		"Western_Outlook": country["name"],
-		"Western_Outlook_DEF": country["name"],
-		"Non_Aligned_Outlook": country["name"],
-		"Non_Aligned_Outlook_DEF": country["name"],
+		"Eastern_Outlook": country["default_long"][0],
+		"Eastern_Outlook_DEF": country["default_long"][1],
+		"Western_Outlook": country["default_long"][0],
+		"Western_Outlook_DEF": country["default_long"][1],
+		"Non_Aligned_Outlook": country["default_long"][0],
+		"Non_Aligned_Outlook_DEF": country["default_long"][1]
 	}
 
 	for party in country["long_names"]:

@@ -1,0 +1,19 @@
+﻿l_english:
+### Country Names and Cosmetics
+ NVR: "Novorossiya"
+ NVR_DEF: "Novorossiya"
+ NVR_ADJ: "Novorossiyan" 
+ NVR_Eastern_Outlook: "Union of People's Republics"
+ NVR_Eastern_Outlook_DEF: "the Union of People's Republics"
+ NVR_Western_Outlook: "Novorossiyan Federal Republic"
+ NVR_Western_Outlook_DEF: "the Novorossiyan Federal Republic"
+ NVR_Non_Aligned_Outlook: "Union of People's Republics"
+ NVR_Non_Aligned_Outlook_DEF: "the Union of People's Republics"
+
+ NVR_Eastern_Outlook_party: "$Eastern_Outlook_party$"
+ NVR_Eastern_Outlook_party_long: "$Eastern_Outlook_party_long$"
+ NVR_Western_Outlook_party: "$Western_Outlook_party$"
+ NVR_Western_Outlook_party_long: "$Western_Outlook_party_long$"
+ NVR_Non_Aligned_Outlook_party: "$Non_Aligned_Outlook_party$"
+ NVR_Non_Aligned_Outlook_party_long: "$Non_Aligned_Outlook_party_long$"
+ 

@@ -1,12 +1,18 @@
 defined_text = {
 	name = get_leader_title
 	text = { trigger = { has_country_leader_with_trait = TITLE_General_Secretary } localization_key = TITLE_General_Secretary } # General Secretary
+	text = { trigger = { has_country_leader_with_trait = TITLE_President } localization_key = TITLE_President } # President
+	text = { trigger = { has_country_leader_with_trait = TITLE_Chancellor } localization_key = TITLE_Chancellor } # Chancellor
 	# <END OF TITLES>  CHANGE THIS AND YOU SHOULD KILL YOURSELF NOW!!!!!!
 	text = { localization_key = TITLE_Default }
 }
 defined_text = {
 	name = get_subideology
 	text = { trigger = { has_country_leader_with_trait = IDEOLOGY_Juche } localization_key = IDEOLOGY_Juche } # Juche
+	text = { trigger = { has_country_leader_with_trait = IDEOLOGY_Christian_Socialism } localization_key = IDEOLOGY_Christian_Socialism } # Christian Socialism
+	text = { trigger = { has_country_leader_with_trait = IDEOLOGY_Communism } localization_key = IDEOLOGY_Communism } # Communism
+	text = { trigger = { has_country_leader_with_trait = IDEOLOGY_Conservatism } localization_key = IDEOLOGY_Conservatism } # Conservatism
+	text = { trigger = { has_country_leader_with_trait = IDEOLOGY_Right_Wing_populism } localization_key = IDEOLOGY_Right_Wing_populism } # Right-wing populism
 	# <END OF IDEOLOGIES>  CHANGE THIS AND YOU SHOULD KILL YOURSELF NOW!!!!!!
 	text = { localization_key = politism }
 }
@@ -14,6 +20,10 @@ defined_text = {
 defined_text = {
 	name = get_subideology_adj
 	text = { trigger = { has_country_leader_with_trait = IDEOLOGY_Juche } localization_key = IDEOLOGY_Juche_ADJ } # Juche
+	text = { trigger = { has_country_leader_with_trait = IDEOLOGY_Christian_Socialism } localization_key = IDEOLOGY_Christian_Socialism_ADJ } # Christian Socialist
+	text = { trigger = { has_country_leader_with_trait = IDEOLOGY_Communism } localization_key = IDEOLOGY_Communism_ADJ } # Communist
+	text = { trigger = { has_country_leader_with_trait = IDEOLOGY_Conservatism } localization_key = IDEOLOGY_Conservatism_ADJ } # Conservative
+	text = { trigger = { has_country_leader_with_trait = IDEOLOGY_Right_Wing_populism } localization_key = IDEOLOGY_Right_Wing_populism_ADJ } # Right-wing populist
 	# <END OF IDEOLOGIES ADJ>  CHANGE THIS AND YOU SHOULD KILL YOURSELF NOW!!!!!!
 	text = { localization_key = politism }
 }

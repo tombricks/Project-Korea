@@ -1,0 +1,26 @@
+characters = {
+	RUS_Gennady_Zyuganov = {
+		name = RUS_Gennady_Zyuganov
+
+		allowed_civil_war = {
+		}
+
+		portraits = {
+			civilian = {
+				large = "GFX_Portrait_RUS_Gennady_Zyuganov"
+			}
+			army = {
+				small = "GFX_Minister_Generic_Leader"
+			}
+		}
+		
+		country_leader = {
+			ideology = Eastern_Outlook_ideology
+			traits = { TITLE_President IDEOLOGY_Christian_Socialism }
+			desc = RUS_Gennady_Zyuganov_desc
+		}
+		
+		
+	}
+
+}

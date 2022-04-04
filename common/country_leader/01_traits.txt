@@ -1,7 +1,13 @@
 leader_traits = {
 	TITLE_General_Secretary = { random = no } # General Secretary
+	TITLE_President = { random = no } # President
+	TITLE_Chancellor = { random = no } # Chancellor
 	# <END OF TITLES>  CHANGE THIS AND YOU SHOULD KILL YOURSELF NOW!!!!!!
 
 	IDEOLOGY_Juche = { random = no } # Juche
+	IDEOLOGY_Christian_Socialism = { random = no } # Christian Socialism
+	IDEOLOGY_Communism = { random = no } # Communism
+	IDEOLOGY_Conservatism = { random = no } # Conservatism
+	IDEOLOGY_Right_Wing_populism = { random = no } # Right-wing populism
 	# <END OF IDEOLOGIES> CHANGE THIS AND YOU SHOULD KILL YOURSELF NOW!!!!!!
 }

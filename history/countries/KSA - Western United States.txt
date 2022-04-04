@@ -1,4 +1,4 @@
-capital = 378
+capital = 811
 set_stability = 0.6
 set_war_support = 0.6
 
@@ -17,3 +17,5 @@ set_popularities = {
 }
 
 KOR = { set_autonomy = { target = PREV autonomy_state = autonomy_puppet } }
+
+recruit_character = KSA_Gloria_La_Riva

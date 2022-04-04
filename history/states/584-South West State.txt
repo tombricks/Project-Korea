@@ -1,0 +1,25 @@
+state = {
+	id = 584
+	name = "STATE_584"
+	history = {
+		owner = ZZZ # owner = SWS
+		# add_core_of = SOM
+		# add_core_of = SNA
+		# add_core_of = SWS
+		victory_points = {
+			618 1 
+		}
+		2017.1.1 = {
+			owner = ZZZ # owner = SOM
+			# add_core_of = SHB
+			remove_core_of = SNA
+			add_manpower = 427332
+		}
+	}
+	provinces = {
+		580 618 2063 8164 10928 13332 13334 13872 13873 13874
+	}
+	manpower = 738843
+	buildings_max_level_factor = 1.000
+	state_category = state_01
+}

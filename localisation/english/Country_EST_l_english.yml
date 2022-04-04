@@ -1,0 +1,19 @@
+﻿l_english:
+### Country Names and Cosmetics
+ EST: "Estonia"
+ EST_DEF: "Estonia"
+ EST_ADJ: "Estonian" 
+ EST_Eastern_Outlook: "Republic of Estonia"
+ EST_Eastern_Outlook_DEF: "the Republic of Estonia"
+ EST_Western_Outlook: "Republic of Estonia"
+ EST_Western_Outlook_DEF: "the Republic of Estonia"
+ EST_Non_Aligned_Outlook: "Republic of Estonia"
+ EST_Non_Aligned_Outlook_DEF: "the Republic of Estonia"
+
+ EST_Eastern_Outlook_party: "$Eastern_Outlook_party$"
+ EST_Eastern_Outlook_party_long: "$Eastern_Outlook_party_long$"
+ EST_Western_Outlook_party: "$Western_Outlook_party$"
+ EST_Western_Outlook_party_long: "$Western_Outlook_party_long$"
+ EST_Non_Aligned_Outlook_party: "$Non_Aligned_Outlook_party$"
+ EST_Non_Aligned_Outlook_party_long: "$Non_Aligned_Outlook_party_long$"
+ 

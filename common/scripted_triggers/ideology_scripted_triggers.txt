@@ -1,6 +1,10 @@
 has_subideology = {
 	OR = {
 		has_country_leader_with_trait = IDEOLOGY_Juche
+		has_country_leader_with_trait = IDEOLOGY_Christian_Socialism
+		has_country_leader_with_trait = IDEOLOGY_Communism
+		has_country_leader_with_trait = IDEOLOGY_Conservatism
+		has_country_leader_with_trait = IDEOLOGY_Right_Wing_populism
 		# <END OF IDEOLOGIES TRIGGER>
 	}
 }
@@ -8,6 +12,8 @@ has_subideology = {
 has_leader_title = {
 	OR = {
 		has_country_leader_with_trait = TITLE_General_Secretary
+		has_country_leader_with_trait = TITLE_President
+		has_country_leader_with_trait = TITLE_Chancellor
 		# <END OF TITLES TRIGGER>
 	}
 }

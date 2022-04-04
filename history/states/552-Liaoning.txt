@@ -1,0 +1,113 @@
+
+state={
+	id=552
+	name="STATE_552"
+	resources={
+		oil=7.000
+		aluminium=25.000
+		steel=80.000
+		chromium=32.000
+	}
+
+	history={
+		owner = MAN
+		add_core_of = MAN
+		
+		victory_points = {
+			1150 10 
+		}
+		victory_points = {
+			9781 5 
+		}
+		victory_points = {
+			11764 1 
+		}
+		victory_points = {
+			892 3 
+		}
+		victory_points = {
+			6981 3 
+		}
+		victory_points = {
+			3783 1 
+		}
+		victory_points = {
+			9854 1 
+		}
+		victory_points = {
+			6851 1 
+		}
+		victory_points = {
+			6860 1 
+		}
+		victory_points = {
+			6910 1 
+		}
+		victory_points = {
+			11771 10 
+		}
+		victory_points = {
+			9835 5 
+		}
+		victory_points = {
+			9788 5 
+		}
+		victory_points = {
+			9885 3 
+		}
+		victory_points = {
+			11815 1 
+		}
+		victory_points = {
+			934 1 
+		}
+		victory_points = {
+			846 1 
+		}
+		victory_points = {
+			6837 1 
+		}
+		victory_points = {
+			3881 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			air_base = 10
+			nuclear_reactor = 1
+			1150 = {
+				naval_base = 10
+
+			}
+			6837 = {
+				naval_base = 4
+
+			}
+
+		}
+		2017.1.1 = {
+			add_manpower = 2000000
+			add_manpower = 2000000
+			add_manpower = 26540
+			buildings = {
+				industrial_complex = 4
+				arms_factory = 3
+				dockyard = 2
+				infrastructure = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		814 846 881 934 972 1499 1502 1508 1558 1627 1638 3814 3828 3877 3881 3934 3978 4514 4561 4633 4745 4876 6837 6852 6893 6898 6937 6951 6988 7575 7633 7743 7812 7894 9768 9788 9831 9835 9873 9905 9927 10331 10426 10429 10499 10612 10638 11801 11815 11836 11855 11886 11903 12337 12469 12478 12485 12690 13150 
+	}
+	manpower=40043460
+	buildings_max_level_factor=1.000
+	state_category=state_15
+	local_supplies=0.000
+}

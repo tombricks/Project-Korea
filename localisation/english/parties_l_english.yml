@@ -20,9 +20,22 @@
  
 ### Tiles
  TITLE_General_Secretary: "General Secretary"
+ TITLE_General_Secretary: "General Secretary"
+ TITLE_President: "President"
+ TITLE_Chancellor: "Chancellor"
  # <END OF TITLES>  CHANGE THIS AND YOU SHOULD KILL YOURSELF NOW!!!!!!
 
 ### Subideologies
  IDEOLOGY_Juche: "Juche"
  IDEOLOGY_Juche_ADJ: "Juche"
+ IDEOLOGY_Christian_Socialism: "Christian Socialism"
+ IDEOLOGY_Christian_Socialism_ADJ: "Christian Socialist"
+ IDEOLOGY_Christian_Socialism: "Christian Socialism"
+ IDEOLOGY_Christian_Socialism_ADJ: "Christian Socialist"
+ IDEOLOGY_Communism: "Communism"
+ IDEOLOGY_Communism_ADJ: "Communist"
+ IDEOLOGY_Conservatism: "Conservatism"
+ IDEOLOGY_Conservatism_ADJ: "Conservative"
+ IDEOLOGY_Right_Wing_populism: "Right-wing populism"
+ IDEOLOGY_Right_Wing_populism_ADJ: "Right-wing populist"
  # <END OF IDEOLOGIES> CHANGE THIS AND YOU SHOULD KILL YOURSELF NOW!!!!!!

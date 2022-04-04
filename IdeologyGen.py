@@ -1,5 +1,5 @@
 ideologies = [
-	["Juche", "Juche", "Juche"],
+	["Right_Wing_populism", "Right-wing populism", "Right-wing populist"],
 ]
 
 # TRAITS

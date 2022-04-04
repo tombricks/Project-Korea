@@ -1,0 +1,31 @@
+
+state = {
+	id = 723
+	name = "STATE_723"
+
+	history = {
+		owner = ZZZ # owner = TAJ
+		victory_points = {
+			12430 3 
+		}
+		buildings = {
+			infrastructure = 1
+			#internet_station = 0
+
+		}
+		# add_core_of = TAJ
+		2017.1.1 = {
+			buildings = {
+				#internet_station = 1
+			}
+			add_manpower = 847565
+		}
+	}
+
+	provinces = {
+		10187 10488 12430 1919 
+	}
+	manpower = 1812266
+	buildings_max_level_factor = 1.000
+	state_category = state_03
+}

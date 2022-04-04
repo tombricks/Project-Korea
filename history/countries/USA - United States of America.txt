@@ -1,4 +1,4 @@
-capital = 361
+capital = 772
 set_stability = 0.6
 set_war_support = 0.6
 
@@ -16,3 +16,6 @@ set_popularities = {
 	Western_Outlook = 100
 }
 
+create_faction = USA_GTO_faction
+add_to_faction = USA
+add_to_faction = CAN

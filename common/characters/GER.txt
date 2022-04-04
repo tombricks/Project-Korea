@@ -1,0 +1,28 @@
+characters = {
+}
+characters = {
+	GER_Tino_Chrupalla = {
+		name = GER_Tino_Chrupalla
+
+		allowed_civil_war = {
+		}
+
+		portraits = {
+			civilian = {
+				large = "GFX_Portrait_Generic_Leader"
+			}
+			army = {
+				small = "GFX_Minister_Generic_Leader"
+			}
+		}
+		
+		country_leader = {
+			ideology = Western_Outlook_ideology
+			traits = { TITLE_Chancellor IDEOLOGY_Right_Wing_populism }
+			desc = GER_Tino_Chrupalla_desc
+		}
+		
+		
+	}
+
+}

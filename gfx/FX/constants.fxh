@@ -238,7 +238,7 @@ static const float4 RIM_COLOR 		= float4( 0.3f, 0.3f, 0.3f, 0.0f );
 // --------------------------------------------------------------
 // -------------    MAP BORDER (PDXMESH)   ----------------------
 // --------------------------------------------------------------
-static const float3 BORDER_SUN_INTENSITY = float3(1.5, 1.5, 1.6);
+static const float3 BORDER_SUN_INTENSITY = float3(0,0,0);
 static const float3 BORDER_SUN_DIRECTION = float3(-0.2, 0.9, 0.1);
 //static const float3 BORDER_SUN_DIRECTION = float3(-0.1, 0.5, 0.0);
 //static const float3 BORDER_SUN_DIRECTION = float3(0.2, 0.5, 0.0);

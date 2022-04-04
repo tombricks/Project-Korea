@@ -1,0 +1,62 @@
+
+state={
+	id=434
+	name="STATE_434"
+	resources={
+		steel=11.000
+	}
+
+	history={
+		owner = CHI
+		add_core_of = CHI
+		
+		victory_points = {
+			12043 5 
+		}
+		victory_points = {
+			3900 3 
+		}
+		victory_points = {
+			881 5 
+		}
+		victory_points = {
+			6937 1 
+		}
+		victory_points = {
+			6969 1 
+		}
+		victory_points = {
+			900 1 
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 2
+			3900 = {
+				naval_base = 4
+
+			}
+
+		}
+		2017.1.1 = {
+			add_manpower = 1770050
+			buildings = {
+				industrial_complex = 5
+				infrastructure = 3
+				arms_factory = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		828 900 952 1052 1137 1590 3830 3900 3955 6904 6969 9776 10397 10480 11822 12043 
+	}
+	manpower=17602933
+	buildings_max_level_factor=1.000
+	state_category=state_11
+	local_supplies=0.000
+}

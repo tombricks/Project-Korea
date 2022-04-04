@@ -1095,7 +1095,7 @@ technologies = {
 
 	}
 	
-	nuclear_reactor = {
+	nuclear_reactor = 1 #{
 
 		# can build reactors
 		

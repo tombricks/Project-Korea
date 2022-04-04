@@ -1,0 +1,74 @@
+
+state={
+	id=794
+	name="STATE_794"
+	resources={
+		oil=2.000
+	}
+
+	history={
+		owner = USA
+		add_claim_by = KSA
+		add_core_of = USA
+		add_core_of = KSA
+		victory_points = {
+			12735 5 
+		}
+		victory_points = {
+			7480 5 
+		}
+		victory_points = {
+			5059 3 
+		}
+		victory_points = {
+			492 3 
+		}
+		victory_points = {
+			7640 1 
+		}
+		victory_points = {
+			11509 1 
+		}
+		victory_points = {
+			10192 1 
+		}
+		victory_points = {
+			1587 3 
+		}
+		victory_points = {
+			12803 1 
+		}
+		victory_points = {
+			4594 1 
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 3
+			fuel_silo = 2
+			air_base = 4
+			industrial_complex = 2
+			nuclear_reactor = 1
+			7480 = {
+				naval_base = 1
+
+			}
+
+		}
+		2017.1.1 = {
+			add_manpower = 494415
+			buildings = {
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		492 860 1587 4594 4622 4756 5059 7422 7480 7640 10192 10352 10380 10520 11509 11942 12735 12803 
+	}
+	manpower=4447100
+	buildings_max_level_factor=1.000
+	state_category=state_05
+	local_supplies=0.000
+}

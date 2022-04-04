@@ -1,0 +1,27 @@
+
+characters = {
+	KSA_Gloria_La_Riva = {
+		name = KSA_Gloria_La_Riva
+
+		allowed_civil_war = {
+		}
+
+		portraits = {
+			civilian = {
+				large = "GFX_Portrait_KSA_Gloria_La_Riva"
+			}
+			army = {
+				small = "GFX_Minister_Generic_Leader"
+			}
+		}
+		
+		country_leader = {
+			ideology = Eastern_Outlook_ideology
+			traits = { TITLE_President IDEOLOGY_Communism }
+			desc = KSA_Gloria_La_Riva_desc
+		}
+		
+		
+	}
+
+}

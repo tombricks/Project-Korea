@@ -1,0 +1,19 @@
+﻿l_english:
+### Country Names and Cosmetics
+ CAN: "Canada"
+ CAN_DEF: "Canada"
+ CAN_ADJ: "Canadian" 
+ CAN_Eastern_Outlook: "Canada"
+ CAN_Eastern_Outlook_DEF: "Canada"
+ CAN_Western_Outlook: "Canada"
+ CAN_Western_Outlook_DEF: "Canada"
+ CAN_Non_Aligned_Outlook: "Canada"
+ CAN_Non_Aligned_Outlook_DEF: "Canada"
+
+ CAN_Eastern_Outlook_party: "$Eastern_Outlook_party$"
+ CAN_Eastern_Outlook_party_long: "$Eastern_Outlook_party_long$"
+ CAN_Western_Outlook_party: "$Western_Outlook_party$"
+ CAN_Western_Outlook_party_long: "$Western_Outlook_party_long$"
+ CAN_Non_Aligned_Outlook_party: "$Non_Aligned_Outlook_party$"
+ CAN_Non_Aligned_Outlook_party_long: "$Non_Aligned_Outlook_party_long$"
+ 

@@ -1,0 +1,19 @@
+﻿l_english:
+### Country Names and Cosmetics
+ UKR: "Ukraine"
+ UKR_DEF: "Ukraine"
+ UKR_ADJ: "Ukrainian" 
+ UKR_Eastern_Outlook: "Ukrainian Republic"
+ UKR_Eastern_Outlook_DEF: "the Ukrainian Republic"
+ UKR_Western_Outlook: "Ukraine"
+ UKR_Western_Outlook_DEF: "Ukraine"
+ UKR_Non_Aligned_Outlook: "Ukraine"
+ UKR_Non_Aligned_Outlook_DEF: "Ukraine"
+
+ UKR_Eastern_Outlook_party: "$Eastern_Outlook_party$"
+ UKR_Eastern_Outlook_party_long: "$Eastern_Outlook_party_long$"
+ UKR_Western_Outlook_party: "$Western_Outlook_party$"
+ UKR_Western_Outlook_party_long: "$Western_Outlook_party_long$"
+ UKR_Non_Aligned_Outlook_party: "$Non_Aligned_Outlook_party$"
+ UKR_Non_Aligned_Outlook_party_long: "$Non_Aligned_Outlook_party_long$"
+ 

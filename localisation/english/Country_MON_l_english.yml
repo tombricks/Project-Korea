@@ -1,0 +1,21 @@
+﻿l_english:
+### Country Names and Cosmetics
+ MON: "Mongolia"
+ MON_DEF: "Mongolia"
+ MON_ADJ: "Mongolian" 
+ MON_Eastern_Outlook: "Mongolia"
+ MON_Eastern_Outlook_DEF: "Mongolia"
+ MON_Western_Outlook: "Mongolia"
+ MON_Western_Outlook_DEF: "Mongolia"
+ MON_Non_Aligned_Outlook: "Mongolia"
+ MON_Non_Aligned_Outlook_DEF: "Mongolia"
+
+ MON_Eastern_Outlook_party: "DP"
+ MON_Eastern_Outlook_party_long: "Democratic Party"
+ MON_Western_Outlook_party: "$Western_Outlook_party$"
+ MON_Western_Outlook_party_long: "$Western_Outlook_party_long$"
+ MON_Non_Aligned_Outlook_party: "$Non_Aligned_Outlook_party$"
+ MON_Non_Aligned_Outlook_party_long: "$Non_Aligned_Outlook_party_long$"
+ 
+ MON_Khaltmaagiin_Battulga: "Khaltmaagiin Battulga"
+ MON_Khaltmaagiin_Battulga_desc: ""

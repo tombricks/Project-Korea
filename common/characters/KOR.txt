@@ -3,7 +3,7 @@ characters = {
 		name = KOR_Kim_Jong_un
 		portraits = {
 			civilian = {
-				large = "GFX_Portrait_Kim_Jong_un"
+				large = "GFX_Portrait_KOR_Kim_Jong_un"
 			}
 		}
 		country_leader={

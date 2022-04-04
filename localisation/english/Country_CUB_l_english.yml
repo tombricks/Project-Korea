@@ -1,0 +1,19 @@
+﻿l_english:
+### Country Names and Cosmetics
+ CUB: "Cuba"
+ CUB_DEF: "Cuba"
+ CUB_ADJ: "Cuban" 
+ CUB_Eastern_Outlook: "Republic of Cuba"
+ CUB_Eastern_Outlook_DEF: "the Republic of Cuba"
+ CUB_Western_Outlook: "Cuba"
+ CUB_Western_Outlook_DEF: "Cuba"
+ CUB_Non_Aligned_Outlook: "Cuba"
+ CUB_Non_Aligned_Outlook_DEF: "Cuba"
+
+ CUB_Eastern_Outlook_party: "PCC"
+ CUB_Eastern_Outlook_party_long: "Communist Party of Cuba"
+ CUB_Western_Outlook_party: "$Western_Outlook_party$"
+ CUB_Western_Outlook_party_long: "$Western_Outlook_party_long$"
+ CUB_Non_Aligned_Outlook_party: "$Non_Aligned_Outlook_party$"
+ CUB_Non_Aligned_Outlook_party_long: "$Non_Aligned_Outlook_party_long$"
+ 
